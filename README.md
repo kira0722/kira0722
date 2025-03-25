@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kira0722/kira0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Tecnologo en Sistematizacion de Datos**
 
-Here are some ideas to get you started:
+:pencil: **Desarrollador Backend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Jetbrains** (forever)
+
+### Vias de contacto
+
+#### telefono:
+###### +57 3054236301
+
+### correo
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kira0722/Taller_PDS) 
+![GitHub top language](https://img.shields.io/github/languages/top/kira0722/Taller_PDS)
