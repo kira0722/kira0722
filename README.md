@@ -44,7 +44,8 @@
 
 </td><td valign="top" width="33%">
 
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### DevOps  
 <div align="center">  
