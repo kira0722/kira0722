@@ -71,15 +71,15 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/kira0722/quintoRepo_Git/releases/tag/v0.1.0) in [kira0722/quintoRepo_Git](https://github.com/kira0722/quintoRepo_Git)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/quintoRepo_Git](https://github.com/kira0722/quintoRepo_Git)<br>
-3. 📔 Created new repository [kira0722/quintoRepo_Git](https://github.com/kira0722/quintoRepo_Git)<br>
-4. ⬆️ Pushed 3 commit(s) to [kira0722/miCuartoRepo_Git](https://github.com/kira0722/miCuartoRepo_Git)<br>
-5. 🎉 Merged PR [#2](https://github.com/kira0722/miCuartoRepo_Git/pull/2) in [kira0722/miCuartoRepo_Git](https://github.com/kira0722/miCuartoRepo_Git)<br>
+1. ⬆️ Pushed 2 commit(s) to [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+2. 🎉 Merged PR [#1](https://github.com/kira0722/Java_Course/pull/1) in [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+3. 💪 Opened PR [#1](https://github.com/kira0722/Java_Course/pull/1) in [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+4. 📔 Created new repository [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+5. ✌️ Released [v0.1.0](https://github.com/kira0722/quintoRepo_Git/releases/tag/v0.1.0) in [kira0722/quintoRepo_Git](https://github.com/kira0722/quintoRepo_Git)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 27th, 2025, 1:40:57 AM
+Last Updated: Thursday, March 27th, 2025, 12:41:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
