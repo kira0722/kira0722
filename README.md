@@ -71,15 +71,15 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
-2. ⬆️ Pushed 2 commit(s) to [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
-3. 🎉 Merged PR [#1](https://github.com/kira0722/Java_Course/pull/1) in [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
-4. 💪 Opened PR [#1](https://github.com/kira0722/Java_Course/pull/1) in [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
-5. 📔 Created new repository [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
+4. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 4th, 2025, 1:15:00 PM
+Last Updated: Saturday, April 5th, 2025, 1:40:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
