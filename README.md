@@ -83,9 +83,5 @@ Last Updated: Thursday, April 10th, 2025, 1:17:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira0722&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-<br />
