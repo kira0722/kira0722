@@ -71,15 +71,15 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
 4. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
-5. 📔 Created new repository [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 14th, 2025, 1:18:39 PM
+Last Updated: Tuesday, April 15th, 2025, 1:45:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
