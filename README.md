@@ -71,15 +71,15 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
-4. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
-5. ⬆️ Pushed 1 commit(s) to [kira0722/Ejercicios_Practicos](https://github.com/kira0722/Ejercicios_Practicos)<br>
+1. 📔 Created new repository [kira0722/Proyecto_Responsive_Course](https://github.com/kira0722/Proyecto_Responsive_Course)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/Curso_JavaFuncional](https://github.com/kira0722/Curso_JavaFuncional)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/POO_COURSE](https://github.com/kira0722/POO_COURSE)<br>
+4. ⬆️ Pushed 1 commit(s) to [kira0722/Java_Course](https://github.com/kira0722/Java_Course)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/HTML-CSS_CURSO](https://github.com/kira0722/HTML-CSS_CURSO)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 15th, 2025, 1:17:45 PM
+Last Updated: Wednesday, April 16th, 2025, 1:45:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
