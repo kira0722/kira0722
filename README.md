@@ -71,15 +71,15 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/Pizzeria_Spring](https://github.com/kira0722/Pizzeria_Spring)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/Pizzeria_Spring](https://github.com/kira0722/Pizzeria_Spring)<br>
-4. ⬆️ Pushed 1 commit(s) to [kira0722/Pizzeria_Spring](https://github.com/kira0722/Pizzeria_Spring)<br>
-5. ⬆️ Pushed 1 commit(s) to [kira0722/Pizzeria_Spring](https://github.com/kira0722/Pizzeria_Spring)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
+4. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 1:47:37 AM
+Last Updated: Friday, May 9th, 2025, 12:42:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
