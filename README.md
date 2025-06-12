@@ -3,8 +3,8 @@
 
 - 🎓 **Principal**: Backend Developer 
 - 📍 **Ubicación**: Medellín, Colombia
-- 💼 **Puesto/trabajo actual**: Backend Developer  
-- 🌱 **Aprendizaje actual**: Software development and frontend development
+- 💼 **Puesto/trabajo actual**: Software Developer 
+- 🌱 **I’m currently learning  OAuth 2.0 and OpenID Connect
   
 
 <br/>  
@@ -77,10 +77,6 @@
 4. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
 5. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
 <!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 1:23:35 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira0722&hide_border=true&layout=compact" align="center" /></div>  
