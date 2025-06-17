@@ -75,7 +75,7 @@
 2. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
 3. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
 4. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
-5. 📔 Created new repository [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Github Stats  
