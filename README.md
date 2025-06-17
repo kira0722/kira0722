@@ -71,11 +71,11 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/kira0722](https://github.com/kira0722/kira0722)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
-4. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
-5. ⬆️ Pushed 1 commit(s) to [kira0722/JavaScript_Course](https://github.com/kira0722/JavaScript_Course)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+4. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+5. 📔 Created new repository [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Github Stats  
