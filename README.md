@@ -71,11 +71,11 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
-4. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
-5. ⬆️ Pushed 1 commit(s) to [kira0722/TypeScript_Course](https://github.com/kira0722/TypeScript_Course)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+4. 📔 Created new repository [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+5. ⭐ Starred [CinthiaSerna/Dashboard](https://github.com/CinthiaSerna/Dashboard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Github Stats  
