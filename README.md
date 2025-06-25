@@ -75,7 +75,7 @@
 2. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
 3. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
 4. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
-5. 📔 Created new repository [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+5. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Github Stats  
