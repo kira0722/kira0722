@@ -71,10 +71,10 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
-3. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
-4. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
+1. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
+2. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
+3. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
+4. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
 5. ⬆️ Pushed 1 commit(s) to [kira0722/Task_Manager](https://github.com/kira0722/Task_Manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
