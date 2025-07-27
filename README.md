@@ -71,8 +71,6 @@
 <br/>  
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
-2. ⬆️ Pushed 1 commit(s) to [kira0722/Store](https://github.com/kira0722/Store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Github Stats  
