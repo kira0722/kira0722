@@ -1,86 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Samuel Quirama - Software Developer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
-    h1, h2, h3 { text-align: center; }
-    table { width: 100%; }
-    td { vertical-align: top; }
-    .center { text-align: center; }
-    .skills img { margin: 10px; }
-    .badges img { margin-bottom: 5px; }
-  </style>
-</head>
-<body>
+# I'm Samuel Quirama, a software developer 👨‍💻
 
-  <h1 class="center">I'm Samuel Quirama, a software developer 👨‍💻</h1>
+- 🌱 I’m currently learning Swift  
+- ❓ Ask me about anything related to Java and Spring framework
 
-  <ul>
-    <li>🌱 I’m currently learning Swift</li>
-    <li>❓ Ask me about anything related to Java and Spring framework</li>
-  </ul>
+## My Skill Set
 
-  <h2>My Skill Set</h2>
-  <table>
-    <tr>
-      <td width="33%">
-        <h3 class="center">Frontend</h3>
-        <div class="center skills">
-          <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-          <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-          <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-          <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-          <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-          <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-          <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-          <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-        </div>
-      </td>
-      <td width="33%">
-        <h3 class="center">Backend</h3>
-        <div class="center skills">
-          <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-          <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-          <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-          <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-          <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-          <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-        </div>
-      </td>
-      <td width="33%">
-        <h3 class="center">DB</h3>
-        <div class="center skills">
-          <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-          <a href="https://www.oracle.com/in/index.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
-          <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-          <a href="https://mariadb.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br>
+      <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" /></a>
+      <a href="https://getbootstrap.com/docs/3.4/javascript/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" /></a>
+      <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" /></a>
+      <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" /></a>
+      <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" /></a>
+      <a href="https://www.tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" /></a>
+      <a href="https://angular.io/"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="40" alt="Angular" /></a>
+      <a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="40" alt="Vue.js" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br>
+      <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" alt="Java" /></a>
+      <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40" alt="Spring" /></a>
+      <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" /></a>
+      <a href="https://expressjs.com/"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" alt="Express.js" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" /></a>
+      <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" /></a>
+      <a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" alt="PHP" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>DB</b><br>
+      <a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" /></a>
+      <a href="https://www.oracle.com/in/index.html"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="40" alt="Oracle" /></a>
+      <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="MySQL" /></a>
+      <a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="40" alt="Maria DB" /></a>
+    </td>
+  </tr>
+</table>
 
-  <h2>Connect with me</h2>
-  <div class="center badges">
-    <a href="https://github.com/kira0722" target="_blank">
-      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
-    <a href="https://www.linkedin.com/in/samuel-quirama-494745288" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-  </div>
+## Connect with me
 
-  <!--RECENT_ACTIVITY:start-->
-  <!--RECENT_ACTIVITY:end-->
+[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kira0722)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-quirama-494745288)
 
-  <h2>Github Stats</h2>
-  <div class="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira0722&hide_border=true&layout=compact" alt="Top Languages" />
-  </div>
+## Github Stats
 
-</body>
-</html>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira0722&hide_border=true&layout=compact)
