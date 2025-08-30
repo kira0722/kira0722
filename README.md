@@ -28,14 +28,14 @@
       <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" /></a>
       <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" /></a>
       <a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" /></a>
-      <br><br><br><br>
+      <br><br><br><br><br>
     </td>
     <td align="center"><b>DB</b><br>
       <a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" /></a>
       <a href="https://www.oracle.com/in/index.html"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="40" /></a>
       <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" /></a>
       <a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="40" /></a>
-      <br><br><br><br><br>
+      <br><br><br><br><br><br><br><br><br><br><br>
     </td>
   </tr>
 </table>
